@@ -6,7 +6,7 @@ pipeline {
 	}
 
 	environment {
-		M2_INSTALL = "/home/sangi/software/apache-maven-3.6.1/bin/mvn"
+//		M2_INSTALL = "/home/sangi/software/apache-maven-3.6.1/bin/mvn"
 	}
 
     stages {
